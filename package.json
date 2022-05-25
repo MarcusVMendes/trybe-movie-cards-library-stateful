@@ -1,6 +1,7 @@
 {
   "name": "sd-0x-project-movie-cards-library-stateful",
   "version": "0.1.0",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "acorn": "7.1.1",
